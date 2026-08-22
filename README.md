@@ -25,4 +25,4 @@
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/khadidja-mechara-) | [GitHub](https://github.com/kady-tech01)
+📫 **Connect with me:** [LinkedIn]([https://linkedin.com/in/www.linkedin.com/in/khadidja-mechara-]) | [GitHub](https://github.com/kady-tech01)
