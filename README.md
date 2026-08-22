@@ -24,5 +24,6 @@
 - 📱 **Web & Mobile Applications:** Full-stack SaaS concepts, AI integrations, and management dashboards.
 
 ---
-
-📫 **Connect with me:** [LinkedIn]([https://linkedin.com/in/www.linkedin.com/in/khadidja-mechara-]) | [GitHub](https://github.com/kady-tech01)
+📫 **Connect with me:** 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadidja-mechara-212990428/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kady-tech01)
