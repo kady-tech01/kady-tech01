@@ -25,4 +25,4 @@
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/kady-tech01)
+📫 **Connect with me:** [LinkedIn] | [GitHub](https://github.com/kady-tech01)
