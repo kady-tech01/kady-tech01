@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Khadidja 👋
 
-<!--
-**kady-tech01/kady-tech01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Business Management & Finance Student** | 💻 **Full-Stack Web & Mobile Developer** | 📊 **Data Analyst**
 
-Here are some ideas to get you started:
+📍 Based in Algeria 🇩🇿  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🎓 Master's student specializing in Financial Management.
+- 💻 Self-taught developer building full-stack web platforms, mobile apps, and data-driven solutions.
+
+---
+
+### 🛠️ Tech Stack & Skills
+- **Web & Mobile:** Python, Django, Django REST Framework , MySQL, Reactjs , React Native (Expo), JavaScript, HTML5, CSS3, Bootstrap
+- **Data Analytics & Databases:** Pandas, SQL, MySQL, MariaDB, Data Ingestion & Cleaning
+- **Tools & Environments:** Linux, Git/GitHub, VS Code
+
+---
+
+### 📂 Key Projects & Focus Areas
+- 📊 **Financial Data Analytics:** Automation scripts, data ingestion pipelines, and financial data cleaning.
+- 📱 **Web & Mobile Applications:** Full-stack SaaS concepts, AI integrations, and management dashboards.
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/kady-tech01)
