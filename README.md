@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Web & Mobile:** Python, Django, Django REST Framework , MySQL, Reactjs , React Native (Expo), JavaScript, HTML5, CSS3, Bootstrap
+- **Web & Mobile:** Python, Django, Django REST Framework, React, React Native (Expo), JavaScript, HTML5, CSS3, Bootstrap
 - **Data Analytics & Databases:** Pandas, SQL, MySQL, MariaDB, Data Ingestion & Cleaning
 - **Tools & Environments:** Linux, Git/GitHub, VS Code
 
@@ -25,4 +25,4 @@
 
 ---
 
-📫 **Connect with me:** [LinkedIn] | [GitHub](https://github.com/kady-tech01)
+📫 **Connect with me:** [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/khadidja-mechara-212990428/)) | [GitHub](https://github.com/kady-tech01)
