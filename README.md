@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Web & Mobile:** Python, Django, Django REST Framework, React, React Native (Expo), JavaScript, HTML5, CSS3, Bootstrap
+- **Web & Mobile:** Python, Django, Django REST Framework, Reactjs, React Native (Expo), JavaScript, HTML5, CSS3, Bootstrap
 - **Data Analytics & Databases:** Pandas, SQL, MySQL, MariaDB, Data Ingestion & Cleaning
 - **Tools & Environments:** Linux, Git/GitHub, VS Code
 
