@@ -1,8 +1,6 @@
 # Hi there, I'm Khadidja 👋
 
-🎓 **Business Management & Finance Student** | 💻 **Full-Stack Web & Mobile Developer** | 📊 **Data Analyst**
-
-📍 Based in Algeria 🇩🇿  
+🎓 **Business Management & Finance Student** | 💻 **Full-Stack Web & Mobile Developer** | 📊 **Data Analyst** 
 
 ---
 
